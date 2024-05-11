@@ -65,7 +65,7 @@ public class UserBookTreeGUI extends JFrame {
 
             List<Textbook> textbooks = textBooksIssued.getOrDefault(user, Collections.emptyList());
             for (Textbook book : textbooks) {
-                userNode.add(new DefaultMutableTreeNode(book.get_title()));
+                userNode.add(new DefaultMutableTreeNode(book.getFullTitle()));
             }
         }
 

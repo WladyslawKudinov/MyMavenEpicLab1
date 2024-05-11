@@ -18,7 +18,7 @@ public class LibraryCard {
     public List<FictionBook> availableFictionBooks = booksGenerator.generateFiction(50);
     public List<Textbook> availableTextbooks = booksGenerator.generateTextbook(100);
     public UserGenerator generator = new UserGenerator();
-    public List<AbstractUser> users = generator.generateUsers(10);
+    public List<AbstractUser> users = generator.generateUsers(20);
 
 
     public void issueTextBook(AbstractUser user, Textbook book) {

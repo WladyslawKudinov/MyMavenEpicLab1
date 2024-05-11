@@ -7,6 +7,7 @@ public class EnglishTextbook implements Textbook{
     private final String degree = rawTitleAuthorDegree[2];
     private final String author = rawTitleAuthorDegree[1];
     private final String title = rawTitleAuthorDegree[0];
+    private final String fullTitle = rawTitleAuthorDegree[0] + "; " + rawTitleAuthorDegree[2] + "; " + rawTitleAuthorDegree[1];
 
     @Override
     public String get_author() {
@@ -20,5 +21,8 @@ public class EnglishTextbook implements Textbook{
 
     public String get_degree() {
         return this.degree;
+    }
+    public String getFullTitle() {
+        return this.fullTitle;
     }
 }
