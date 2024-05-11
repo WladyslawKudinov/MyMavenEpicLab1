@@ -1,0 +1,86 @@
+<data>
+    <row>
+        <department>Программирование (алгоритмы и структуры данных)</department>
+        <type>Пособие</type>
+    </row>
+    <row>
+        <department>Применение информационных технологий при создании специализированных систем</department>
+        <type>Учебник</type>
+    </row>
+    <row>
+        <department>Программирование (алгоритмы и структуры данных)</department>
+        <type>Задачник</type>
+    </row>
+    <row>
+        <department>Программирование (алгоритмы и структуры данных)</department>
+        <type>Учебник</type>
+    </row>
+    <row>
+        <department>Базы данных (теоретические и практические основы)</department>
+        <type>Учебник</type>
+    </row>
+    <row>
+        <department>Базы данных (теоретические и практические основы)</department>
+        <type>Практикум</type>
+    </row>
+    <row>
+        <department>Низкоуровневое программирование</department>
+        <type>Учебник</type>
+    </row>
+    <row>
+        <department>Низкоуровневое программирование</department>
+        <type>Практикум</type>
+    </row>
+    <row>
+        <department>Применение информационных технологий при создании специализированных систем</department>
+        <type>Учебник</type>
+    </row>
+    <row>
+        <department>Организация ЭВМ и систем</department>
+        <type>Пособие</type>
+    </row>
+    <row>
+        <department>Защита информации; Криптографические методы защиты информации</department>
+        <type>Практикум</type>
+    </row>
+    <row>
+        <department>Защита информации; Криптографические методы защиты информации</department>
+        <type>Учебник</type>
+    </row>
+    <row>
+        <department>Современные платежные системы и их безопасность</department>
+        <type>Учебник</type>
+    </row>
+    <row>
+        <department>Применение информационных технологий при создании специализированных систем</department>
+        <type>Практикум</type>
+    </row>
+    <row>
+        <department>Педагогическая практика</department>
+        <type>Методическое пособие</type>
+    </row>
+    <row>
+        <department>Безопасность операционных систем; Операционные системы (семейства UNIX)</department>
+        <type>Учебник</type>
+    </row>
+    <row>
+        <department>Безопасность операционных систем; Операционные системы (семейства UNIX)</department>
+        <type>Практикум</type>
+    </row>
+    <row>
+        <department>Безопасность операционных систем; Операционные системы (семейства UNIX)</department>
+        <type>Пособие</type>
+    </row>
+    <row>
+        <department>Основы языка программирования Java</department>
+        <type>Задачник</type>
+    </row>
+    <row>
+        <department>Сети и телекоммуникации / Networks and Telecommunications</department>
+        <type>Задачник</type>
+    </row>
+    <row>
+        <department>Сети и телекоммуникации / Networks and Telecommunications</department>
+        <type>Учебник</type>
+    </row>
+</data>

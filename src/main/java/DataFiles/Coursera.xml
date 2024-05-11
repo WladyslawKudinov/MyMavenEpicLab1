@@ -1,0 +1,172 @@
+<data>
+    <row>
+        <course>Successful Negotiation: Essential Strategies and Skills</course>
+        <university>University of Michigan</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>First Step Korean</course>
+        <university>Yonsei University</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>COVID-19 Contact Tracing</course>
+        <university>Johns Hopkins University</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>Chinese for Beginners</course>
+        <university>Peking University</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>Neural Networks and Deep Learning</course>
+        <university>DeepLearning.AI</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>Introduction to Psychology</course>
+        <university>Yale University</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>Algorithms, Part I</course>
+        <university>Princeton University</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>AI For Everyone</course>
+        <university>DeepLearning.AI</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>Foundations of User Experience (UX) Design</course>
+        <university>Google</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>HTML, CSS, and Javascript for Web Developers</course>
+        <university>Johns Hopkins University</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>Python Data Structures</course>
+        <university>University of Michigan</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>Crash Course on Python</course>
+        <university>Google</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>Write Professional Emails in English</course>
+        <university>Georgia Institute of Technology</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>Speak English Professionally: In Person, Online On the Phone</course>
+        <university>Georgia Institute of Technology</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>Stanford Introduction to Food and Health</course>
+        <university>Stanford University</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>What is Data Science?</course>
+        <university>IBM</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>Excel Skills for Business: Essentials</course>
+        <university>Macquarie University</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>Ask Questions to Make Data-Driven Decisions</course>
+        <university>Google</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>Bitcoin and Cryptocurrency Technologies</course>
+        <university>Princeton University</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>The Data Scientist's Toolbox</course>
+        <university>Johns Hopkins University</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>Fundamentals of Graphic Design</course>
+        <university>California Institute of the Arts</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>Grammar and Punctuation</course>
+        <university>University of California, Irvine</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>R Programming</course>
+        <university>Johns Hopkins University</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>Google Cloud Fundamentals: Core Infrastructure</course>
+        <university>Google</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>The Bits and Bytes of Computer Networking</course>
+        <university>Google</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>Python for Data Science, AI  Development</course>
+        <university>IBM</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>Introduction to Philosophy</course>
+        <university>University of Edinburgh</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>Prepare Data for Exploration</course>
+        <university>Google</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>Using Python to Access Web Data</course>
+        <university>University of Michigan</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>Social Psychology</course>
+        <university>Wesleyan University</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>Foundations of Digital Marketing and E-commerce</course>
+        <university>Google</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>Indigenous Canada</course>
+        <university>University of Alberta</university>
+        <degree>Master</degree>
+    </row>
+    <row>
+        <course>Marketing in a Digital World</course>
+        <university>University of Illinois at Urbana-Champaign</university>
+        <degree>Bachelor</degree>
+    </row>
+    <row>
+        <course>SQL for Data Science</course>
+        <university>University of California, Davis</university>
+        <degree>Master</degree>
+    </row>
+</data>

@@ -1,0 +1,167 @@
+<data>
+    <row>
+        <title>To Kill a Mockingbird</title>
+        <year>1960</year>
+        <genre>Novel</genre>
+    </row>
+    <row>
+        <title>1984</title>
+        <year>1949</year>
+        <genre>Dystopian</genre>
+    </row>
+    <row>
+        <title>The Great Gatsby</title>
+        <year>1925</year>
+        <genre>Novel</genre>
+    </row>
+    <row>
+        <title>Pride and Prejudice</title>
+        <year>1813</year>
+        <genre>Novel</genre>
+    </row>
+    <row>
+        <title>The Catcher in the Rye</title>
+        <year>1951</year>
+        <genre>Novel</genre>
+    </row>
+    <row>
+        <title>Animal Farm</title>
+        <year>1945</year>
+        <genre>Political satire</genre>
+    </row>
+    <row>
+        <title>Lord of the Flies</title>
+        <year>1954</year>
+        <genre>Novel</genre>
+    </row>
+    <row>
+        <title>The Hobbit</title>
+        <year>1937</year>
+        <genre>Fantasy</genre>
+    </row>
+    <row>
+        <title>Frankenstein</title>
+        <year>1818</year>
+        <genre>Gothic novel</genre>
+    </row>
+    <row>
+        <title>Wuthering Heights</title>
+        <year>1847</year>
+        <genre>Novel</genre>
+    </row>
+    <row>
+        <title>The Lord of the Rings</title>
+        <year>1954</year>
+        <genre>Fantasy</genre>
+    </row>
+    <row>
+        <title>Dracula</title>
+        <year>1897</year>
+        <genre>Gothic horror</genre>
+    </row>
+    <row>
+        <title>The Picture of Dorian Gray</title>
+        <year>1890</year>
+        <genre>Philosophical fiction</genre>
+    </row>
+    <row>
+        <title>Brave New World</title>
+        <year>1932</year>
+        <genre>Dystopian</genre>
+    </row>
+    <row>
+        <title>The Adventures of Huckleberry Finn</title>
+        <year>1884</year>
+        <genre>Novel</genre>
+    </row>
+    <row>
+        <title>The War of the Worlds</title>
+        <year>1898</year>
+        <genre>Science fiction</genre>
+    </row>
+    <row>
+        <title>Moby-Dick</title>
+        <year>1851</year>
+        <genre>Adventure</genre>
+    </row>
+    <row>
+        <title>Great Expectations</title>
+        <year>1861</year>
+        <genre>Novel</genre>
+    </row>
+    <row>
+        <title>Les Misérables</title>
+        <year>1862</year>
+        <genre>Historical novel</genre>
+    </row>
+    <row>
+        <title>A Tale of Two Cities</title>
+        <year>1859</year>
+        <genre>Historical novel</genre>
+    </row>
+    <row>
+        <title>Oliver Twist</title>
+        <year>1837</year>
+        <genre>Novel</genre>
+    </row>
+    <row>
+        <title>The Adventures of Sherlock Holmes</title>
+        <year>1892</year>
+        <genre>Short stories</genre>
+    </row>
+    <row>
+        <title>Robinson Crusoe</title>
+        <year>1719</year>
+        <genre>Adventure</genre>
+    </row>
+    <row>
+        <title>Gulliver's Travels</title>
+        <year>1726</year>
+        <genre>Adventure</genre>
+    </row>
+    <row>
+        <title>Emma</title>
+        <year>1815</year>
+        <genre>Novel</genre>
+    </row>
+    <row>
+        <title>Dr. Jekyll and Mr. Hyde</title>
+        <year>1886</year>
+        <genre>Gothic novella</genre>
+    </row>
+    <row>
+        <title>The Call of the Wild</title>
+        <year>1903</year>
+        <genre>Novel</genre>
+    </row>
+    <row>
+        <title>The Scarlet Letter</title>
+        <year>1850</year>
+        <genre>Novel</genre>
+    </row>
+    <row>
+        <title>Heart of Darkness</title>
+        <year>1899</year>
+        <genre>Novella</genre>
+    </row>
+    <row>
+        <title>The Canterbury Tales</title>
+        <year>1478</year>
+        <genre>Collection of stories</genre>
+    </row>
+    <row>
+        <title>The Time Machine</title>
+        <year>1895</year>
+        <genre>Science fiction</genre>
+    </row>
+    <row>
+        <title>Beowulf</title>
+        <year>975</year>
+        <genre>Epic poem</genre>
+    </row>
+    <row>
+        <title>Alice's Adventures in Wonderland</title>
+        <year>1865</year>
+        <genre>Fantasy</genre>
+    </row>
+</data>

@@ -1,0 +1,167 @@
+<data>
+    <row>
+        <title>Война и мир</title>
+        <year>1869</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Преступление и наказание</title>
+        <year>1866</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Евгений Онегин</title>
+        <year>1833</year>
+        <genre>Роман в стихах</genre>
+    </row>
+    <row>
+        <title>Мастер и Маргарита</title>
+        <year>1966</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Братья Карамазовы</title>
+        <year>1880</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Анна Каренина</title>
+        <year>1877</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Тихий Дон</title>
+        <year>1940</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Доктор Живаго</title>
+        <year>1957</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Собачье сердце</title>
+        <year>1925</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Идиот</title>
+        <year>1869</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Отцы и дети</title>
+        <year>1862</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Палата № 6</title>
+        <year>1892</year>
+        <genre>Рассказ</genre>
+    </row>
+    <row>
+        <title>Ревизор</title>
+        <year>1836</year>
+        <genre>Комедия</genre>
+    </row>
+    <row>
+        <title>Капитанская дочка</title>
+        <year>1836</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Сказка о царе Салтане</title>
+        <year>1831</year>
+        <genre>Сказка</genre>
+    </row>
+    <row>
+        <title>Мёртвые души</title>
+        <year>1842</year>
+        <genre>Поэма</genre>
+    </row>
+    <row>
+        <title>Дядя Ваня</title>
+        <year>1897</year>
+        <genre>Драма</genre>
+    </row>
+    <row>
+        <title>Три сестры</title>
+        <year>1901</year>
+        <genre>Драма</genre>
+    </row>
+    <row>
+        <title>Вишнёвый сад</title>
+        <year>1904</year>
+        <genre>Драма</genre>
+    </row>
+    <row>
+        <title>На дне</title>
+        <year>1902</year>
+        <genre>Драма</genre>
+    </row>
+    <row>
+        <title>Записки из подполья</title>
+        <year>1864</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Белая гвардия</title>
+        <year>1924</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Палата № 6</title>
+        <year>1892</year>
+        <genre>Рассказ</genre>
+    </row>
+    <row>
+        <title>Герой нашего времени</title>
+        <year>1840</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Обломов</title>
+        <year>1859</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Пиковая дама</title>
+        <year>1834</year>
+        <genre>Рассказ</genre>
+    </row>
+    <row>
+        <title>Князь Серебряный</title>
+        <year>1831</year>
+        <genre>Поэма</genre>
+    </row>
+    <row>
+        <title>Леди Макбет Мценского уезда</title>
+        <year>1865</year>
+        <genre>Повесть</genre>
+    </row>
+    <row>
+        <title>Мертвые души</title>
+        <year>1842</year>
+        <genre>Поэма</genre>
+    </row>
+    <row>
+        <title>Старуха Изергиль</title>
+        <year>1872</year>
+        <genre>Повесть</genre>
+    </row>
+    <row>
+        <title>Дети подземелья</title>
+        <year>1864</year>
+        <genre>Повесть</genre>
+    </row>
+    <row>
+        <title>Бесы</title>
+        <year>1872</year>
+        <genre>Роман</genre>
+    </row>
+    <row>
+        <title>Дворянское гнездо</title>
+        <year>1859</year>
+        <genre>Роман</genre>
+    </row>
+</data>
